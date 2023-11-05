@@ -19,14 +19,7 @@
 </h2>
 <p align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=enesky&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" />
-  </a>
-    
-  <a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesky&theme=gotham&hide_border=false" />
   </a>
-  
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesky&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-  </a>
 </p>
+
