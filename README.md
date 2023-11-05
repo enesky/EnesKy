@@ -1,4 +1,5 @@
-<h2 align="center" id="macropower-title"> :wave: Hello there! I'm Enes Kamil
+<h2 align="center"> :wave: Hello there! I'm Enes Kamil</h2>
+
 <p align="center">
   <a href="https://twitter.com/eneskydev">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
@@ -16,7 +17,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
   </a>
 </p>
-</h2>
+
 <p align="center">
   <a>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesky&theme=gotham&hide_border=false" />
