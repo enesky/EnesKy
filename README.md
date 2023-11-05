@@ -8,14 +8,6 @@
   <a href="https://linkedin.com/in/enesky">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://twitch.tv/rekxyy">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" />
-  </a>
-  
-  <a href="https://youtube.com/@eky..">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
