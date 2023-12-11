@@ -20,15 +20,7 @@
 
 <p align="center">
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesky&theme=gotham&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=enesky&theme=gotham&hide_border=true&&hide_total_contributions=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly">
-  </a>
-</p>
-
-<h2 align="center"> Pinned Repositories </h2>
-
-<p align="center">
-  <a href="https://github.com/enesky/Doodle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enesky&theme=gotham&repo=Doodle" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesky&theme=gotham&hide_border=true" width="500px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=enesky&theme=gotham&hide_border=true&&hide_total_contributions=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" width="500px">
   </a>
 </p>
