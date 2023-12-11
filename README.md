@@ -20,7 +20,7 @@
 
 <p align="center">
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesky&theme=gotham&hide_border=true" width="450px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=enesky&theme=gotham&hide_border=true&&hide_total_contributions=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" width="450px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesky&theme=gotham&hide_border=true" width="400px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=enesky&theme=gotham&hide_border=true&&hide_total_contributions=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" width="400px">
   </a>
 </p>
